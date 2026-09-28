@@ -1,0 +1,27 @@
+# Virtual environments
+venv/
+env/
+.venv/
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Vector Databases and Raw Data
+data/raw_docs/
+data/chroma_docs/*
+data/chroma_local/*
+data/chat_history.json
+!data/**/.gitkeep
+
+# macOS
+.DS_Store
+
+#VS Code
+.vscode/
+*.code-workspace
+
+# Bitacora.dev blog posts
+docs/bitacora_**.*
