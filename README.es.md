@@ -13,7 +13,8 @@ Copiloto RAG local para desarrollo de videojuegos con Godot 4.7. LangGraph enrut
 
 ![Diagrama de enrutado de LangGraph](graph.png)
 
-<video src="assets/vscode.mp4" width="1280" height="720" controls></video>
+<video src="https://github.com/user-attachments/assets/c350ada4-37e8-44ee-9691-dff417bd7d50" width="100%" controls></video>
+
 
 ## Arquitectura y stack
 

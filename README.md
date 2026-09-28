@@ -13,7 +13,8 @@ A local-first RAG copilot for Godot 4.7 game development. LangGraph routes quest
 
 ![LangGraph routing diagram](graph.png)
 
-<video src="assets/vscode.mp4" width="1280" height="720" controls></video>
+<video src="https://github.com/user-attachments/assets/c350ada4-37e8-44ee-9691-dff417bd7d50" width="100%" controls></video>
+
 
 ## Architecture and stack
 
